@@ -7,6 +7,7 @@ SOUTH = 2
 SOUTHEAST = 3
 SOUTHWEST = 4
 
+# test test
 
 class connect4:
     def __init__(self):
